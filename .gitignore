@@ -1,0 +1,5 @@
+output/
+coverage
+coverage.out
+*.exe
+*.env

@@ -1,0 +1,58 @@
+[
+  {
+    "category_id": "1001",
+    "category_name": "Молочная продукция",
+    "id": "milk-001",
+    "name": "Молоко пастеризованное 2.5% 900 мл",
+    "price": 109.99,
+    "url": "https://kuper.ru/product/milk-001"
+  },
+  {
+    "category_id": "1001",
+    "category_name": "Молочная продукция",
+    "id": "milk-002",
+    "name": "Кефир 1% 930 мл",
+    "price": 94.5,
+    "url": "https://kuper.ru/product/milk-002"
+  },
+  {
+    "category_id": "1001",
+    "category_name": "Молочная продукция",
+    "id": "milk-003",
+    "name": "Сметана 20% 300 г",
+    "price": 127,
+    "url": "https://kuper.ru/product/milk-003"
+  },
+  {
+    "category_id": "1002",
+    "category_name": "Хлебобулочные изделия",
+    "id": "bread-001",
+    "name": "Хлеб тостовый пшеничный 500 г",
+    "price": 84.9,
+    "url": "https://kuper.ru/product/bread-001"
+  },
+  {
+    "category_id": "1002",
+    "category_name": "Хлебобулочные изделия",
+    "id": "bread-002",
+    "name": "Батон нарезной 400 г",
+    "price": 52.4,
+    "url": "https://kuper.ru/product/bread-002"
+  },
+  {
+    "category_id": "1002",
+    "category_name": "Хлебобулочные изделия",
+    "id": "bread-003",
+    "name": "Булочка с маком 80 г",
+    "price": 39.9,
+    "url": "https://kuper.ru/product/bread-003"
+  },
+  {
+    "category_id": "1003",
+    "category_name": "Фрукты",
+    "id": "fruit-001",
+    "name": "Яблоки Гала 1 кг",
+    "price": 189,
+    "url": "https://kuper.ru/product/fruit-001"
+  }
+]
